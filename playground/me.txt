@@ -1,5 +1,0 @@
-{{#user}}
-Name: Sarthak
-Skills: HTML, CSS, JS, Next.js
-Email: sarthakjain206@gmail.com
-{{/user}}
